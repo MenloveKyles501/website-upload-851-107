@@ -1,0 +1,23 @@
+{
+  "siteTitle": "亚洲热门视频-热门视频分类片库-精选内容持续更新在线浏览",
+  "logoName": "亚洲热门视频",
+  "movieCount": 2000,
+  "detailPageCount": 2000,
+  "categoryCount": 12,
+  "categoryCounts": {
+    "series": 167,
+    "youth": 166,
+    "suspense": 167,
+    "romance": 167,
+    "hot": 167,
+    "movie": 167,
+    "global": 166,
+    "costume": 166,
+    "comedy": 167,
+    "action": 167,
+    "asia": 167,
+    "fresh": 166
+  },
+  "videoSourceSlotsFromOriginalJs": 150,
+  "coverRule": "cover = ((N - 1) % 150) + 1, referenced as top-level JPG files only"
+}
